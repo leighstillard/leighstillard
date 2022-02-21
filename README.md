@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leighstillard
-- 👀 I’m interested in cloud migration technology, AWS & GCP, serverless tech and natural language processing.
-- 🌱 I’m currently learning data engineering and golang.
+- 👀 I’m interested in golang, edgedb, data engineering and event based ecosystems. I'm building an application with a monolith first approach. My background is in cloud migration, cryptography, AWS & GCP, serverless tech and natural language processing.
+- 🌱 I’m currently learning edgedb and golang.
 - 📫 You can reach me on twitter @leighstillard 
 
 <!---
